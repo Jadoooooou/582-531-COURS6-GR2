@@ -26,6 +26,15 @@ void loop() {
   delay(100);
 
   // couleur_pixel
-  monPixel = CRGB(0, millis() % 255, 0);
-  FastLED.show();
+  monPixel = CRGB(255, 0, 0);
+  if (maLectureAnalogique < 1365) {
+     monPixel = CRGB(255, 0, 0);
+     FastLED.show();
+   } else if (maLectureAnalogique > 2730) {
+     monPixel = CRGB(0, 0, 255);
+     FastLED.show();
+   } else {
+    monPixel = CRGB(0, 255, 0);
+    FastLED.show();
+  }
 }
