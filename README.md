@@ -21,3 +21,5 @@
     
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/10.png)   
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/11.png)   
+ Le CUE provient du premier LOGIC "PLAGE"   
+    
