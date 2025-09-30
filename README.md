@@ -32,4 +32,4 @@
  ## Proportionner les valeurs pour contrôler un paramètre
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/15.png)       
  ## Pour lisser un effet (glissement)
- ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/14.png)          
+ ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/16.png)          
