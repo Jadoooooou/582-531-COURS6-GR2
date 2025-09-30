@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 601.0, 245.0, 827.0, 642.0 ],
+		"rect" : [ 1592.0, 99.0, 470.0, 532.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -46,7 +46,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 398.0, 383.0, 59.0, 22.0 ],
-					"text" : "port 7400"
+					"text" : "port 7004"
 				}
 
 			}
@@ -68,8 +68,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 262.0, 431.0, 138.0, 22.0 ],
-					"text" : "udpsend 127.0.0.1 9999"
+					"patching_rect" : [ 262.0, 435.0, 138.0, 22.0 ],
+					"text" : "udpsend 127.0.0.1 7004"
 				}
 
 			}
@@ -81,7 +81,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 311.0, 315.0, 71.0, 22.0 ],
-					"text" : "/angle 2423"
+					"text" : "/angle 1391"
 				}
 
 			}
@@ -141,7 +141,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 388.0, 99.0, 115.0, 22.0 ],
-					"text" : "baud 115200, port e"
+					"text" : "baud 115200, port d"
 				}
 
 			}
@@ -186,7 +186,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-14", 0 ],
+					"destination" : [ "obj-14", 1 ],
 					"order" : 0,
 					"source" : [ "obj-12", 1 ]
 				}
