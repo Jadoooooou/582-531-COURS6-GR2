@@ -29,5 +29,6 @@
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/13.png) 
  ## Lier le PLAY sur la deuxième piste sonore
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/14.png) 
-       
+ ## Proportionner les valeurs pour contrôler un paramètre
+ ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/15.png)       
    
