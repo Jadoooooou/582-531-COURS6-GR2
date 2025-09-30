@@ -33,3 +33,5 @@
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/15.png)       
  ## Pour lisser un effet (glissement)
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/16.png)          
+ ## TouchDesigner final
+ ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/17.png)          
