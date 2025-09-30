@@ -18,5 +18,6 @@
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/9.png)   
  ## Mettre du son 
  mettre le REPEAT à OFF pour que le CUE soit aussi à OFF   
+    
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/10.png)   
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/11.png)   
