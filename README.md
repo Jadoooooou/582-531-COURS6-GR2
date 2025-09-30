@@ -27,5 +27,7 @@
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/12.png) 
  ## Ajout d'une autre piste sonore
  ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/13.png) 
-    
+ ## Lier le PLAY sur la deuxième piste sonore
+ ![screenshot1](https://github.com/Jadoooooou/582-531-COURS6-GR2/blob/main/COMPREHENSION_medias/14.png) 
+       
    
